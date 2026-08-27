@@ -1,0 +1,4 @@
+# Deliberately questionable values for a harmless review fixture.
+owner: cpunion
+timeout_seconds: 0
+failure_policy: retry_forever
